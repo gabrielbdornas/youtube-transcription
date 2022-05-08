@@ -32,5 +32,3 @@ class YoutubeTranscricao:
 
 trans = YoutubeTranscricao('https://www.youtube.com/watch?v=Q8eajxcS6dQ')
 print(trans)
-
-
