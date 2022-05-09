@@ -10,11 +10,13 @@ class YoutubeTranscricao:
     return self.url.split('watch?v=')[1]
 
   def transcricao(self):
-    transcricao = YouTubeTranscriptApi.get_transcript("Q8eajxcS6dQ", languages=['pt'])
-    print(transcricao[0]['text'])
-    print(transcricao[1]['text'])
-    print(transcricao[2]['text'])
+    transcricao_texto = ''
+    transcricao = YouTubeTranscriptApi.get_transcript(self.video_id(), languages=['pt'])
+    for i in transcricao:
+      transcricao_texto += f"{i['text']}\n"
+    return transcricao_texto
 
 trans = YoutubeTranscricao('https://www.youtube.com/watch?v=Q8eajxcS6dQ')
 print(trans)
 print(trans.video_id())
+print(trans.transcricao())
