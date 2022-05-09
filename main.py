@@ -22,9 +22,13 @@ class YoutubeTranscricao:
       transcricao_texto += f"{i['text']}\n"
     return transcricao_texto
 
+  def cria_arquivo_transcricao(self):
+    with open('transcricao.txt', 'w', encoding='utf-8') as file:
+      file.write(self.transcricao())
+
 trans = YoutubeTranscricao('https://www.youtube.com/watch?v=Q8eajxcS6dQ')
 print(trans)
 print(trans.video_id())
-print(trans.__repr__())
+print(trans.cria_arquivo_transcricao())
 
 

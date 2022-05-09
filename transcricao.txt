@@ -1,0 +1,282 @@
+fala pessoal sejam bem vindos ao
+didática tech se você clicou nesse vídeo
+é porque tá querendo aprender pai tão
+rápido então sem enrolação
+vamos direto porque interessa vamos
+começar a programar um microcomputador
+aqui pra gente começar aquelas primeiras
+programinhas em python mesmo que nunca
+tenha programado nada na vida é ver que
+é muito tranquilo muito simples
+programar em python está a fragilizar as
+coisas aqui a gente vai usar um
+compilador online e você não precisar
+baixar nada no computador de vocês
+estavam só usar um navegador da internet
+mesmo conseguiu rodar os probleminhas
+páginas dá certo então vamos começar a
+programar bom e só então se vocês
+digitarem compilador online python no
+google o primeiro resultado que vai
+aparecer vai ser esse daqui é só clicar
+esse resultado e já vai abrir essa
+janelinha que com esse compilador a
+gente pode utilizar ou pode utilizar
+outro também tem vários ali deixar esse
+link na descrição do vídeo também já
+pode selecionar esses extinto aqui a
+pagar comecei a escrever nosso primeiro
+como um dia em parte que vai ser
+imprimir a mensagem na tela como é que a
+gente faz isso a gente usa o comando
+print a aí descreve print é de imprimir
+o inglês abre e fecha parênteses né e
+cria uma aspa simples quando a gente
+fizer isso os criação parentes em abril
+sofreu mas para se abrir
+ele já vai completar a segunda hasta
+segundo parentes aí eu a idéia da casa
+que o computador é online vai estar
+fazendo isso pra gente tá certo então
+aqui tem escreveu olá amigo lula mundo
+olá mundo na mensagem clássica de quem
+está começando o problema é coisa e
+botar pra rodar aqui o ano ele vai
+imprimir essa mensagem pra gente e
+pronto já escreveu nosso primeiro
+programa em python né
+além de escrever textos essa prova
+porque penso que dentro das suas aspas
+ele vai imprimir a gente na tela mas a
+gente pode colocar também uma conta em
+um cálculo então aqui em vez de colocar
+entre aspas
+a escolha por exemplo sim mais três bota
+pra rodar ele vai nos dar resposta a
+essa conta oito mas também poderia fazer
+5 -3 né poderia fazer cinco vezes três
+então vezes no caso um asterisco quitá
+esse vai ser o cálculo da multiplicação
+a gente pode usar uma barra no caso o
+cálculo da divisão italiana ao estado e
+também da divisão
+a gente pode usar exponenciação 5 levado
+natureza é colocar dois asteriscos o
+colocando dois asteriscos fica cinco
+elevado na terça que dá 125 tá
+além de colocar as contas matemáticas
+aqui dentro a gente pode fazer isso de
+outra forma olha só a gente pode criar
+uma variável tarde vou explicar o que é
+uma variável mas imagino que tem uma
+letra que manda a botei igual e coloquei
+sim então dizendo que a recebe 5 ok vou
+dizer que b recebe 3
+eu vou criar uma outra variável chamada
+sola eu vou dizer que é a mais b
+tá aí agora eu vou pedir pra ela
+imprimir o código imprimir para a gente
+avaliar um som
+se eu colocar isso aqui pra rodar ele
+vai imprimir redução de 8 ou seja o que
+ele fez ele pegou o valor de 5 e colocou
+dentro dessa variável criei pegou 13
+colocou dentro dessa variável bacon
+criei o valor diário valor de bebê que
+já existiu e colocou dentro da variável
+somacal criei aí agora imprimir o
+resultado dessa avaliação soma aqui pra
+gente que é 8 então variável é isso é um
+objeto que eu crio tal onde eu posso dar
+o nome que eu quiser pra ele
+conversando com letra minúscula tá eu
+faço de receber um valor por meio desse
+símbolo de igual então aqui um igual não
+é igual ao da mata da matemática que é
+igual significa recebe a então a recebe
+5 b recebe 3 e soma recebe o título de a
+mais b e por isso foi impresso na tela
+que o resultado da soma
+tá eu poderia também criar uma outra
+vagavam dizer que a mulher chamada
+quadrado variável quadrado vai ser a
+variável soma elevada ao quadrado
+olha só que eu peguei avaliar eu sou uma
+namorada que já criei e levei ao
+quadrado
+agora eu vou pedir para imprimir essa
+variável quadrado o que vai acontecer
+ele vai imprimir o resultado da soma que
+era 8 elevada ao quadrado que a 64 e eu
+possa cumprir várias coisas ao mesmo
+tempo que eu possa imprimir aqui por
+exemplo tá posso colocar assim é a soma
+dois pontos é o bota uma vírgula aqui o
+resultado da soma agora vou botar assim
+o quadrado quadrado então já fiz aqui ó
+em primeiro um texto na frente a festa
+antes eu coloco entre aspas vírgula
+agora em outra coisa que não a vincula
+separar uma coisa da outra
+isso vai dar um espaço poderá vir gula
+depois do imprevisto daqui que isso aqui
+é avaliarão soma depois eu tenho uma
+vírgula em outra coisa que é um texto
+depois viu alegre outra coisa que é uma
+variável chamado quadrado
+a segunda rodada tudo isso aqui ó ele
+vai ter essa mensagem a soma é 8 o
+quadrado da soma 64
+então eu entendo que ele imprime um
+texto em uma variável
+em outro texto imprimiu outra variar
+bacana né
+eu comentei aqui em relação ao símbolo
+do recebe que é o símbolo do igual aqui
+se eu quisesse de fato usar o apuro
+sinal de igual mesmo poderia colocar
+dois símbolos de igual então por exemplo
+se você coloca soma igual igual a 8
+a eu peço que ele imprime isso seria
+rodar que ele vai dizer que ou seja é
+verdade a soma é igual então o símbolo
+de igual mesmo matemática onde conhece
+aí tem que colocar dois sinais igual à
+então aquilo que é uma pergunta na seção
+68 fazendo é verdade eu voltar se
+perguntar já soma igual a 10 por exemplo
+nem vai ver que não é ver que é falsa op
+é que no caso como a sub-13 e sonhar
+mais b só vai dar oito aqui então não é
+igual a 10 deu falso agente pode querer
+sabendo isso a gente pode criar agora um
+condicional então vamos dar o seguinte
+para imaginar que eu vou apagar esse
+aqui agora e vou criar aqui um
+condicional e ficar então como é que
+funciona assim o iff soma igual igual a
+82 pontos
+imprimir um aprende a 8
+aí se não for verdade então votar aqui ó
+elsie dois pontos a imprimir a soma não
+é 8 fazendo aqui é só botar pra rodar a
+seguir na tela ele vai imprimir pra
+gente essa mensagem a soma é 8 porque a
+gente já sabe que vai dar hoje 5 mais 38
+então esse operador riff fazendo ele faz
+uma comparação e soma igual a 8 a
+condição de pior se for verdade ele vai
+fazer esse comando
+se não for verdade ou seja elsie aí vai
+fazer esse comando tá então se isso aqui
+não for verdade ele vai ignorar isso vai
+usar esse comando aqui mas se for
+verdade ele vai fazer só isso comandar
+o valor aqui doar por exemplo dar 7
+agora soma já não vai mais a 87 uma
+estrela dessa certo então é só voltar a
+rodar
+ele vai botar a soma é 8 mil que a soma
+é 8 que ele viu que na verdade então
+olha isso aqui é falsa então vou pro
+próximo o operador aqui né else
+então eu mesmo aqui não tem nenhuma
+condição então entende que não é tá
+então o operador if né
+ele funciona dessa fonte pode usar ele
+pra estabelecer condições de pedir para
+realizar comandos a partir de condições
+só lembrando que depois do iff depois do
+el tem que votar sempre nos dois pontos
+e tem que ter uma implementação até um
+espacinho ó eu faço a condição e eu
+coloco o comando com o certo espaço que
+é uma tentação a aceitação aqui no caso
+essa interface que está utilizando essa
+idéia é automaticamente para a gente
+aqui mas se estivesse criando esse pódio
+em outro lugar
+é só saber nem botar esse espacinho aqui
+para saber que esse comando aqui tá
+dentro dessa condição
+tá certo que mais pode fazer aqui pode
+criar um comando fora
+então coloque fazer uma outra coisa
+ainda não criar aqui um loop fora fora
+pra fazer um looping tapas e várias
+operações ao mesmo tempo tão boa assim
+por exemplo forem england 52 bons aqui ó
+a rodada começa de ver o que ele vai
+imprimir pra gente ó todos ele vai criar
+que o vaiaram temporária aqui ó que ele
+vai ficar criando todos os valores até
+sim a cinco vezes
+no caso do python começa do zero é
+importante saber a hora que ele começa
+do zero então vai fazer cinco vezes ele
+vai criar aqui uma variável separar da
+eni e vai imprimir ela até chegar aqui
+no reidi de 5 como ele vai fazer essa
+operação cinco vezes e vai começar do
+zero e vai ter 40 um dois três quatro
+cinco vezes apontado a 123 participar
+mas como um país não é a uma indexação
+do pai começa com 10 então ele começa às
+10 horas a contar então que ele fez com
+que fora ele foi imprimindo o comando
+dele foi imprimir na tela ele faz esse
+comando cinco vezes porque foi quando
+formei aqui dentro do dc como o dia
+rende aqui tá e foi para uma operação de
+levar cinco vezes e que ele criou no
+mecão aparelho vai avançando temporada
+o que ele fez cinco operações e qual era
+a operação imprimir na tela ela
+trabalhava sozinho
+tá então por isso que imprimiu aqui ó
+01234 ou poderia em vez de pedir para
+imprimir essa variável que foi a cinco
+operações né
+hoje eu sempre me podia pedir para
+imprimir uma frase tão por exemplo assim
+ó imprimir gostei dessa aula e cilic se
+voltar sob essa frase e deve fazer
+primeiro cinco vezes na tela a frase
+olha aqui ó no cantinho tem uma barriga
+de rolar ele vai imprimir que 5 nessa
+fase que teve então ele faz um comandam
+o lucro fora ele faz isso ele repete uma
+operação a quantidade de vezes que a
+gente pedir aqui dentro desse parâmetro
+aqui
+randy então eu posso colocar que eu
+quisesse de seu pedido ele pediu 50
+vezes na tela ele vai pedir vai imprimir
+50 mesmo que a equipe me essa frase 50
+vezes infelizmente você só pode dar um
+líquido vídeo né
+mas aqui no pai então não tem limite
+pode fazer o que quiser desde que a
+gente tenha criatividade aqui nessa
+linguagem programação ela e limitada
+pode fazer muita coisa mesmo eu vou
+deixar a relação é que se uma playlist
+que tem 12 aulas de python iniciantes
+organizadinhas passo a passo só uma
+super práticas parecidas com essa onde
+explicou ainda com mais detalhes os
+principais comandos predominar de pai do
+paciente confortável com essa linguagem
+eu vou deixar aqui uma outra pênis de
+python voltada para a china e para a
+ciência de dados são 22 aulas a outra
+pelo estudo gratuito também aqui nesse
+caso só permite já é um pouco mais
+especializada é um pai pra quem quer
+entrar nessa área inteligente oficial e
+decência de dados que é uma época
+crescendo cada vez mais tá então se
+escreve aqui no canal completa em outros
+vídeos relacionados à programação a
+igreja oficial e também a tecnologia e
+ensino em breve novos vídeos até mais
