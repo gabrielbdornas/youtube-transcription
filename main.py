@@ -9,6 +9,9 @@ class YoutubeTranscricao:
   def __repr__(self):
     return f"YoutubeTranscricao('{self.video_id()}')"
 
+  def __str__(self):
+    return f"Transcrição do vídeo YouTube de url: {self.url}"
+
   def video_id(self):
     return self.url.split('watch?v=')[1]
 
