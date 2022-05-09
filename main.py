@@ -6,29 +6,15 @@ class YoutubeTranscricao:
     self.url = url
     self.idioma = 'pt'
 
-  def __repr__(self):
-    return f"YoutubeTranscricao('{self.url}')"
-
-  def __str__(self):
-    return f"Transcrição vídeos do Youtube url: {self.url}"
-
   def video_id(self):
-    return self.url.split("watch?v=")[1]
+    return self.url.split('watch?v=')[1]
 
-  def transcricao_tempo(self):
-    transcricao = YouTubeTranscriptApi.get_transcript(self.video_id(), languages=[self.idioma])
-    transcricao_texto = ''
-    for i in transcricao:
-      transcricao_texto += f"{i['start']} - {i['text']}\n"
-    return transcricao_texto
-
-    def transcricao(self):
-      transcricao = YouTubeTranscriptApi.get_transcript(self.video_id(), languages=[self.idioma])
-      transcricao_texto = ''
-      for i in transcricao:
-        transcricao_texto += f"{i['text']}\n"
-      return transcricao_texto
-
+  def transcricao(self):
+    transcricao = YouTubeTranscriptApi.get_transcript("Q8eajxcS6dQ", languages=['pt'])
+    print(transcricao[0]['text'])
+    print(transcricao[1]['text'])
+    print(transcricao[2]['text'])
 
 trans = YoutubeTranscricao('https://www.youtube.com/watch?v=Q8eajxcS6dQ')
 print(trans)
+print(trans.video_id())
